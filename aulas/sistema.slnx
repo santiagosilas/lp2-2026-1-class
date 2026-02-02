@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="bibliotecas/bibliotecas.csproj" />
+  <Project Path="terminal/terminal.csproj" />
+</Solution>
