@@ -10,3 +10,4 @@ int add3(int a, int b) => a + b;
 Console.WriteLine($"soma = {add1(2, 3)}");
 Console.WriteLine($"soma = {add2(2, 3)}");
 Console.WriteLine($"soma = {add3(2, 3)}");
+
