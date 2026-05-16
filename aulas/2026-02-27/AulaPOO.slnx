@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Sistema/Sistema.csproj" />
+  <Project Path="Terminal/Terminal.csproj" />
+  <Project Path="UnitTests/UnitTests.csproj" />
+</Solution>
